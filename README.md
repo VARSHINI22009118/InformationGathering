@@ -29,19 +29,20 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![image](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/9f91d4ec-4da5-45d9-b5ea-f1fb4a6acd95)
 
 ## PING:
-![image](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/44491659-c525-4fee-a743-efe1e5076648)
+![ping](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/a1e80574-9e4c-4e83-b560-a7a3808e7d25)
+
 
 ## WEB ARCHIVE:
 ![image](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/414da619-40d6-4a2b-9515-2c2c9e315d14)
 
 ## NMAP:
-![image](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/ee3f7680-f097-4d2d-b3a9-7f2535eb27a1)
+![namp](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/10d846e5-79bd-4aba-b52e-d60ccd2af8ef)
 
 ## WHATWEB:
-![image](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/11059970-b2aa-4f8b-bf5d-e209d04bf0ca)
+![whatweb](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/7a913353-222c-453f-8cc0-80a657b6c9bf)
 
 ## TRACEROUTE:
-![image](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/b0f9c813-9c48-4bf3-9f4f-d1952e93cb95)
+![traceroute](https://github.com/VARSHINI22009118/InformationGathering/assets/119401150/5bee54bb-501e-4dae-9a45-1cd191657c91)
 
 
 ## RESULT:
